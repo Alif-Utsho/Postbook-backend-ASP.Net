@@ -1,0 +1,10 @@
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\bin\Debug\DAL.dll.config
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\bin\Debug\DAL.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\bin\Debug\DAL.pdb
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\bin\Debug\EntityFramework.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\bin\Debug\EntityFramework.xml
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\obj\Debug\DAL.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\DAL\obj\Debug\DAL.pdb

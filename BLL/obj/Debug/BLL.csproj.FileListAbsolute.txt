@@ -1,0 +1,12 @@
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\BLL.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\BLL.pdb
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\DAL.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\EntityFramework.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\DAL.pdb
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\DAL.dll.config
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\bin\Debug\EntityFramework.xml
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\obj\Debug\BLL.dll
+E:\Educational Object\Academic\11th Semester\ADVANCED PROGRAMMING WITH .NET [A]\Postbook\Backend\BLL\obj\Debug\BLL.pdb

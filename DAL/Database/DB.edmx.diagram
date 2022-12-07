@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d335a0face6e49479c0f7470549116b4" Name="Diagram1">
+        <EntityTypeShape EntityType="PostbookModel.Comment" Width="1.5" PointX="6" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.Connection" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.Post" Width="1.5" PointX="3.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.Profile" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.React" Width="1.5" PointX="3" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.Report" Width="1.5" PointX="6" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.Token" Width="1.5" PointX="3" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PostbookModel.User" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <AssociationConnector Association="PostbookModel.FK_Comments_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Comments_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Connections_Receiver" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Connections_Sender" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Reacts_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Reports_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Profiles_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Reacts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Reports_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PostbookModel.FK_Tokens_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23e0ec62-d86a-4af3-a21f-be7595aae4d5": {
+      "ProjectGuid": "23e0ec62-d86a-4af3-a21f-be7595aae4d5",
+      "DisplayName": "Backend",
+      "ColorIndex": 0
+    },
+    "8bf3c05d-6226-4012-8a91-a86ed2aa01e5": {
+      "ProjectGuid": "8bf3c05d-6226-4012-8a91-a86ed2aa01e5",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "45dc6d28-f77f-4f42-8114-447a763e3ce1": {
+      "ProjectGuid": "45dc6d28-f77f-4f42-8114-447a763e3ce1",
+      "DisplayName": "DAL_2",
+      "ColorIndex": 2
+    },
+    "5ecd6300-a33c-46cc-a393-fa05ee7ea77c": {
+      "ProjectGuid": "5ecd6300-a33c-46cc-a393-fa05ee7ea77c",
+      "DisplayName": "API",
+      "ColorIndex": 3
+    },
+    "86949dbc-006c-4054-a5a9-b9aafabcfe05": {
+      "ProjectGuid": "86949dbc-006c-4054-a5a9-b9aafabcfe05",
+      "DisplayName": "Postbook",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
